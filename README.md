@@ -2,7 +2,8 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A collaborative list of awesome proxy servers and resources. Feel free to contribute!
+A list of awesome requests debugging proxy software. I am not the original author. Just pasting here.
+See below.
 
 ## Source 
  - I copied this list from [This Hacker News discussion](https://news.ycombinator.com/item?id=30540735#30549694).
